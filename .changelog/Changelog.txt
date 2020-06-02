@@ -1,0 +1,113 @@
+====================
+     06-01-2020
+====================
+
+
+====================
+     05-31-2020
+====================
+
+[frameworks/base]
+Fwb: Fix context symbol location <hace 21 horas> [b3655f6e]
+by: mrhainavn (mr.hai.na.vn@gmail.com)
+
+[packages/apps/Settings]
+Settings: Tweak some search dimens <hace 8 semanas> [088be67]
+by: rajkale99 (kaleraj.rk@gmail.com)
+
+
+====================
+     05-30-2020
+====================
+
+[frameworks/base]
+Fwb: Fix context symbol location <hace 4 horas> [b3655f6e]
+by: mrhainavn (mr.hai.na.vn@gmail.com)
+
+[packages/apps/Settings]
+Settings: Tweak some search dimens <hace 8 semanas> [088be67]
+by: rajkale99 (kaleraj.rk@gmail.com)
+
+[packages/apps/DerpQuest]
+DerpQuest: Add more Logo Styles On Statusbar [2/2] <hace 12 horas> [c187486]
+by: mrhainavn (mr.hai.na.vn@gmail.com)
+
+
+====================
+     05-29-2020
+====================
+
+
+====================
+     05-28-2020
+====================
+
+[device/qcom/sepolicy-legacy]
+sepolicy: Add access policy for charger <hace 4 meses> [03d80cb]
+by: YumeMichi (do4suki@gmail.com)
+
+[hardware/aosip/interfaces]
+Revert "Initial audio amplifier HAL" <hace 3 días> [1fbc187]
+by: mrhainavn (mr.hai.na.vn@gmail.com)
+
+[packages/apps/Dialer]
+InCallUI: SmartMute <hace 8 meses> [7c9ab1d]
+by: DennySPB (dennyspb@gmail.com)
+
+
+====================
+     05-27-2020
+====================
+
+[manifest]
+manifest: fix derp <hace 4 días> [344ccf8]
+by: mrhainavn (mr.hai.na.vn@gmail.com)
+
+[vendor/aosip]
+vendor: Build OmniJaws <hace 4 días> [404c425]
+by: mrhainavn (mr.hai.na.vn@gmail.com)
+
+
+====================
+     05-26-2020
+====================
+
+[packages/apps/DocumentsUI]
+Update message layout <hace 5 meses> [03b37d7]
+by: Tony Huang (tonyychuang@google.com)
+
+[packages/apps/Launcher3]
+Launcher3: Add FORCE_STOP_PACKAGES permission <hace 3 semanas> [d66e87f]
+by: Josh Fox (XlxFoXxlX) (joshfox87@gmail.com)
+
+[scripts]
+fscripts: updater: Print diff with no pager <hace 5 días> [4a931b2]
+by: Ido Ben-Hur (idoybh2@gmail.com)
+
+
+====================
+     05-25-2020
+====================
+
+[art]
+art: extend the supported cpu_variant list for arm64 <2 años, y 7 meses atrás> [fd20d13]
+by: Wei Wang (wangw@codeaurora.org)
+
+[device/aosip/sepolicy]
+common: Move aux camera whitelist prop to vendor <hace 2 semanas> [9b98eaf]
+by: dianlujitao (dianlujitao@lineageos.org)
+
+
+====================
+     05-24-2020
+====================
+
+[device/qcom/sepolicy]
+sepolicy: Unlabel aux camera whitelist prop (#2) <hace 7 días> [bfcbd6e]
+by: Adrian (adrianszymanski242@gmail.com)
+
+[device/qcom/sepolicy-legacy-um]
+sepolicy: Unlabel aux camera whitelist prop <hace 3 semanas> [6116393]
+by: dianlujitao (dianlujitao@lineageos.org)
+
+
